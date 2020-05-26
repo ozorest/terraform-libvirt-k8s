@@ -1,3 +1,0 @@
-[submodule "kubeadm-ansible"]
-	path = kubeadm-ansible
-	url = git@github.com:ozorest/kubeadm-ansible.git
